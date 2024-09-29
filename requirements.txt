@@ -1,0 +1,2 @@
+download the weights of yolov3 model
+https://www.kaggle.com/datasets/shivam316/yolov3-weights
